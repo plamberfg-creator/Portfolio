@@ -344,7 +344,7 @@ form h1{
     background: #034658;
 }
 form input{
-    width: 400px;
+    width: auto;
     height: 40px;
     font-size: 16px;
     padding: 10px;
@@ -356,7 +356,7 @@ form input{
     outline: none;
 }
 form #Feedback{
-    width: 400px;
+    width: auto;
     height: 200px;
     margin: 10px 10px 0px 10px;
     padding: 10px 0px 0px 10px;

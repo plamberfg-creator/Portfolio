@@ -19,5 +19,7 @@ accountBtn1.addEventListener("click" , ()=>{
     alert("Only admin can access this")
 });
 accountBtn2.addEventListener("click" , ()=>{
-    alert("Only admin can access this")
+        alert("Only admin can access this")
 });
+let Greeting =alert("WELCOME TO CODE CRAFTERS");
+settimeout(Greeting,1000);
